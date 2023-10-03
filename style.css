@@ -1,0 +1,71 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+#recommend{
+  color: red;
+  font-size: 18px;
+}
+
+#purpose{
+  font-size: 20px;
+}
+
+
+#victim{
+  margin-bottom: 20px;
+ 
+  color: red;
+  font-size: 32px;
+}
+
+#screenshot{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 25px;
+  
+}
+
+
+ 
+input
+{
+    background: grey
+}
+
+.video_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.video_mainDiv img
+{
+  width: 100%;
+}
+
+.video_mainDiv hr
+{
+    width: 230px; 
+}
+
+.video_mainDiv h5 , .video_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+
+
+
+
