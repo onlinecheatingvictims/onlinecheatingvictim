@@ -16,6 +16,24 @@
   font-size: 18px;
 }
 
+#comingsoon{
+  color: blue;
+  margin-top: 25px;
+  font-size: 18px;
+  
+}
+p{
+  margin-left: 15px;
+  color: black;
+}
+
+#blocked{
+  color: blue;
+  margin-top: 25px;
+  font-size: 28px;
+  
+}
+
 #purpose{
   font-size: 20px;
 }
